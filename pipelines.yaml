@@ -1,7 +1,7 @@
 - pipeline:
     name: check
     description: |
-      Newly uploaded patchsets enter this pipeline to receive an
+      Newly uploaded patchsets enter this pipeline to receive an a
       initial check status.
     manager: independent
     trigger:
